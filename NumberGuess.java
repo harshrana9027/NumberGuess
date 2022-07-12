@@ -31,7 +31,7 @@ public static void main(String args[])
       System.out.println("your number is smaller : sorry");
     }
 
-     System.out.println("Number is : "+a);
+     System.out.println("Number is   : "+a);
 
 
     }
